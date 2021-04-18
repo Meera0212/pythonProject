@@ -1,4 +1,4 @@
-# This is a sample Python script.
+# Pythn code to send GET/POST requst to any URL
 import requests
 if __name__ == '__main__':
 
@@ -15,5 +15,3 @@ if __name__ == '__main__':
     # extracting response text
     print(res1.text)
 
-
-# See PyCharm help at https://www.jetbrains.com/help/pycharm/
